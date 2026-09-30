@@ -54,4 +54,4 @@ Keyboard shortcuts: **N** creates a note, **Ctrl/Cmd K** focuses search, **Ctrl/
 
 ## Artwork
 
-The mascot and interface icons are original bundled SVG/code artwork. Android PNG icons are checked in. To regenerate those PNGs, install Pillow in your Python environment and run `python scripts/generate-icons.py`; Python is not needed to build or run the app.
+The mascot and interface icons are original bundled SVG/code artwork crafted by GPT(special thanks!). Android PNG icons are checked in. To regenerate those PNGs, install Pillow in your Python environment and run `python scripts/generate-icons.py`; Python is not needed to build or run the app.
