@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Kotoba · Language Notebook",
+  "short_name": "Kotoba",
+  "description": "A cozy notebook for vocabulary, grammar, and little discoveries. Works offline.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#f8f7f2",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "./icons/kotoba-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/kotoba-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/kotoba-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "My notebook", "url": "./#library" },
+    { "name": "Quick captures", "url": "./#inbox" }
+  ]
+}
